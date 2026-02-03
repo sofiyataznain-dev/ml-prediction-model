@@ -1,2 +1,9 @@
-# ml-prediction-model
-Built a supervised machine learning model using Python and Scikit-learn to predict outcomes from historical data, including preprocessing, feature engineering, and performance evaluation.
+# ML Prediction Model
+This project is a supervised machine learning model built using Python and Scikit-learn.
+It predicts outcomes from historical data using preprocessing, feature engineering, 
+model training, and evaluation.
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+

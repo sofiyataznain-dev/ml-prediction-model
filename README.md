@@ -7,3 +7,7 @@ model training, and evaluation.
 - Pandas
 - Scikit-learn
 
+## Output
+The model was successfully trained and evaluated.
+
+Model Accuracy: 92%
